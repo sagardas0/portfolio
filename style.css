@@ -1,0 +1,63 @@
+
+h1{
+    font-size: 80px;
+    color: white;
+}
+h2{
+    font-size: 40px;
+    color: white;
+}
+span{
+    color: black;
+}
+section{
+    display: flex;
+    background-image: url(img/wave.svg);
+    background-repeat: no-repeat;
+}
+.text{
+    width: 50%;
+    padding: 5%;
+   
+}
+.img{
+    width: 80%;
+    padding: 30px;
+}
+.link{
+    padding: 10px 20px;
+    background-image: linear-gradient(blue , rgb(180, 152, 233));
+    color: azure;
+    border-radius: 10px;
+    border-style: none;
+}
+.text1{
+    color: black;
+    padding-right: 10px;
+    text-decoration-line: underline;
+}
+h4{
+width: 700;
+}
+main{
+    display: flex;
+}
+.half{
+    border-radius: 50%;
+}
+.t{
+    color: black;
+    text-align: center;
+}
+.parent{
+    display: flex;
+}
+.child{
+    box-shadow: 10px 5px 40px;
+    margin: 35px;
+    border-radius: 0 20px 50px 0;
+    padding: 20px;
+    background-image:linear-gradient(rgb(241, 67, 67),rgb(84, 84, 244));
+    border-left: 10px solid rgba(25, 9, 245, 0.574);
+    
+}
